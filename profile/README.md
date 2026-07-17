@@ -1,5 +1,7 @@
 # Pace
 
+**Flagship product organization** — a dedicated home for Pace and its embodied-assistant ecosystem.
+
 On-device and embodied assistants built around speed, privacy, and useful context.
 
 - **[Pace](https://github.com/HeyPace/pace)** — on-device Mac voice agent that reads your screen and answers with near-zero latency
